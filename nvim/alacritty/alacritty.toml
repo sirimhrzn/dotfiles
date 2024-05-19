@@ -1,0 +1,20 @@
+[font.normal]
+family = "JetBrainsMonoNLNerdFont"
+# family = "ZedMonoNerdFont"
+style = "Regular"
+
+[font]
+size = 9.5
+
+[window]
+decorations = "none"
+opacity = 0.9
+startup_mode = "Maximized"
+
+[window.padding]
+x = 1
+y = 1
+
+[env]
+term = "xterm-256color"
+

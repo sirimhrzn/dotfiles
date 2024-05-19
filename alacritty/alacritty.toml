@@ -1,0 +1,46 @@
+[font.normal]
+family = "JetBrainsMonoNLNerdFont"
+# family = "ZedMonoNerdFont"
+style = "Regular"
+
+[font]
+size = 9.5
+
+[window]
+decorations = "none"
+opacity = 0.9
+startup_mode = "Maximized"
+
+[window.padding]
+x = 1
+y = 1
+
+[env]
+term = "xterm-256color"
+
+# [colors.primary]
+# background = "#161616"
+# foreground = "#ffffff" 
+#
+# [colors.search]
+# matches = { foreground = "CellBackground", background = "#ee5396" }
+#
+# [colors.normal]
+# black = "#262626"
+# magenta = "#ff7eb6"
+# green = "#42be65"
+# yellow = "#ffe97b"
+# blue = "#33b1ff"
+# red = "#ee5396"
+# cyan = "#3ddbd9"
+# white = "#dde1e6"
+#
+# [colors.bright]
+# black = "#393939"
+# magenta = "#ff7eb6"
+# green = "#42be65"
+# yellow = "#ffe97b"
+# blue = "#33b1ff"
+# red = "#ee5396"
+# cyan = "#3ddbd9"
+# white = "#ffffff"
